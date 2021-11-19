@@ -36,15 +36,6 @@ h6 {
     font-size: 14px; 
 }
 
-.logos{
-    display:block;
-}
-.navbar{
-    text-decoration: none;
-    display: flex;
-    background-color: #9e9898;
-    align-content: space-between;
-}
 .lead {
     font-size: 18px;
     font-weight: 400;
