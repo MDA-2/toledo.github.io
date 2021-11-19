@@ -36,6 +36,15 @@ h6 {
     font-size: 14px; 
 }
 
+.logos{
+    display:block;
+}
+.navbar{
+    text-decoration: none;
+    display: flex;
+    background-color: #9e9898;
+    align-content: space-between;
+}
 .lead {
     font-size: 18px;
     font-weight: 400;
@@ -46,16 +55,11 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f1c1c8;
-    background: url(../img/img10.jpg) no-repeat ;
+    background: url(../img/img10.png) no-repeat ;
     background-size: cover;
 }
 .intro-header h1{
     color: #9e9898;
-}
-.intro-header img{
-    margin: 0%;
-    filter: blur(8px);
-    -webkit-filter: blur(8px);
 }
 
 .intro-message {
